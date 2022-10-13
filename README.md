@@ -1,6 +1,6 @@
 # eks-efs-csi-driver
 
-## Multiple Pods Read Write Many 
+## Multiple Pods (ReadWriteMany) 
 
 ## References
 
