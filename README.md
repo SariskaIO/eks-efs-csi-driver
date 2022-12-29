@@ -6,6 +6,7 @@ The efs-provisioner allows you to mount EFS storage as PersistentVolumes in Kube
 
 You can now create a ReadWriteMany PVC using a manifest template.
 
+you can deploy this example it has all required components.
 
 
 
